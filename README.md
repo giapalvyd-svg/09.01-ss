@@ -22,7 +22,7 @@
 
     <h2 id="time" style="color:#E3735E; font-size:20px">Вы можете выбрать удобное время для записи на мастер-класс. Количество мест указано ниже.</h2>
 
-    <table style="algin:center; border: 1px solid black; border-collapse: collapse;text-align: center">
+    <table style=" border: 1px solid black; border-collapse: collapse;text-align: center">
         <tr style="border: 1px solid black">
             <td style="border: 1px solid black"><b>Время проведения</b></td>
             <td style="border: 1px solid black"><b>Количество мест для записи</b></td>
