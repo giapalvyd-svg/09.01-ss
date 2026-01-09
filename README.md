@@ -24,28 +24,28 @@
 
     <table style=" border: 1px solid black; border-collapse: collapse;text-align: center">
         <tr style="border: 1px solid black">
-            <td style="border: 1px solid black"><b>Время проведения</b></td>
-            <td style="border: 1px solid black"><b>Количество мест для записи</b></td>
+            <td><b>Время проведения</b></td>
+            <td><b>Количество мест для записи</b></td>
         </tr>
         <tr style="border: 1px solid black">
-            <td style="border: 1px solid black"><b>11.01.26</b></td>
-            <td style="border: 1px solid black"><b>20</b></td>
+            <td><b>11.01.26</b></td>
+            <td><b>20</b></td>
         </tr>
         <tr style="border: 1px solid black">
-            <td style="border: 1px solid black"><b>12.01.26</b></td>
-            <td style="border: 1px solid black"><b>15</b></td>
+            <td><b>12.01.26</b></td>
+            <td><b>15</b></td>
         </tr>
         <tr style="border: 1px solid black">
-            <td style="border: 1px solid black"><b>13.01.26</b></td>
-            <td style="border: 1px solid black"><b>25</b></td>
+            <td><b>13.01.26</b></td>
+            <td><b>25</b></td>
         </tr>
         <tr style="border: 1px solid black">
-            <td style="border: 1px solid black"><b>14.01.26</b></td>
-            <td style="border: 1px solid black"><b>10</b></td>
+            <td><b>14.01.26</b></td>
+            <td><b>10</b></td>
         </tr>
         <tr style="border: 1px solid black">
-            <td style="border: 1px solid black"><b>15.01.26</b></td>
-            <td style="border: 1px solid black"><b>7</b></td>
+            <td><b>15.01.26</b></td>
+            <td><b>7</b></td>
         </tr>
     </table>
     <p></p>
