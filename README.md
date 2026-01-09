@@ -52,8 +52,8 @@
     <img src="https://s3.objstor.cloud4u.com/unti-prod-people/file/project/jj2wq5coi6.jpg"> 
 
 </main>
-<footer id="cont" style="text-align:center"> 
-    <p><i>Наш адрес: г.Уфа, ул. Центральная, стр. 5</i></p>
+<footer style="text-align:center"> 
+    <p id="cont"><i>Наш адрес: г.Уфа, ул. Центральная, стр. 5</i></p>
     <p><i>Наш телефон: +7 999 808 567</i></p>
     <p><i>Наша почта: art@artprostranstv.com</i></p>
 </footer>
